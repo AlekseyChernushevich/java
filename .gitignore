@@ -1,0 +1,14 @@
+.classpath
+.project
+.settings
+.idea
+.metadata
+*.iml
+*.ipr
+
+
+Thumbs.db
+
+target/
+*.war
+*.ear
